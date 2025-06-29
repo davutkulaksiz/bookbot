@@ -1,3 +1,3 @@
-# bookbot
+# Bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+Analyze your books using this cutting-edge tech
